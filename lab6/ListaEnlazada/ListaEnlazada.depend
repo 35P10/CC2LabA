@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1592346877 source:j:\documentos\2do\cc2\lab\lab5\listaenlazada\src\node.cpp
+	"Node.h"
+	<iostream>
+
+1592347497 j:\documentos\2do\cc2\lab\lab5\listaenlazada\include\node.h
+
+1592347133 source:j:\documentos\2do\cc2\lab\lab5\listaenlazada\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1592347118 j:\documentos\2do\cc2\lab\lab5\listaenlazada\include\linkedlist.h
+	"Node.h"
+
+1592347111 source:j:\documentos\2do\cc2\lab\lab5\listaenlazada\src\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1592843074 source:j:\documentos\2do\cc2\lab\lab6\listaenlazada\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1592842747 j:\documentos\2do\cc2\lab\lab6\listaenlazada\include\linkedlist.h
+	"Node.h"
+	"LinkedList.h"
+	"Iterator.h"
+
+1592783357 j:\documentos\2do\cc2\lab\lab6\listaenlazada\include\node.h
+
+1592843110 source:j:\documentos\2do\cc2\lab\lab6\listaenlazada\src\node.cpp
+	"Node.h"
+	<iostream>
+
+1592794920 source:j:\documentos\2do\cc2\lab\lab6\listaenlazada\src\linkedlist.cpp
+	"Iterator.h"
+	"LinkedList.h"
+	<iostream>
+
+1592842417 j:\documentos\2do\cc2\lab\lab6\listaenlazada\include\iterator.h
+	"Node.h"
+	<iostream>
+
