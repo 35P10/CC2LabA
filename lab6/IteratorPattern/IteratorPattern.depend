@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1592960597 source:c:\users\lucca\desktop\iteratorpattern\main.cpp
+	<iostream>
+	"Node.h"
+	"LinkedList.h"
+
+1592958812 source:c:\users\lucca\desktop\iteratorpattern\src\node.cpp
+	"Node.h"
+	<iostream>
+
+1592960444 c:\users\lucca\desktop\iteratorpattern\include\node.h
+	<iostream>
+
+1592959096 c:\users\lucca\desktop\iteratorpattern\include\linkedlist.h
+	"Node.h"
+	"Iterator.h"
+
+1592957690 c:\users\lucca\desktop\iteratorpattern\include\iterator.h
+	"Node.h"
+	<iostream>
+
